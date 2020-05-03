@@ -1,9 +1,10 @@
 # Translatorinator
 PLEASE READ THE NOTES THANK YOU! <3
-1. After launching, extract the folder
-2. Open folder and find the "WindowsApp1" .exe file (I wasn't able to change the name of the program 
-3. Run the program
-4. Enjoy!
+1. Download the .rar file
+2. Extract the folder
+3. Open folder and find the "WindowsApp1" .exe file (I wasn't able to change the name of the program 
+4. Run the program
+5. Enjoy!
 
 Description:
 A small translator developed for EyeBonezD's comics and lore
