@@ -1,9 +1,10 @@
 # Translatorinator
 PLEASE READ THE NOTES THANK YOU! <3
 1. Download the .rar file
-2. Extract the folder
-3. Open folder and find the "WindowsApp1" .exe file (I wasn't able to change the name of the program 
-4. Run the program
+2. Extract
+3. Open "Application Files"
+4. Open "WindowsApp1_1_0_0_2"
+4. Run the "WindowsApp1" .exe file
 5. Enjoy!
 
 Description:
