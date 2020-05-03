@@ -1,4 +1,11 @@
 # Translatorinator
+PLEASE READ THE NOTES THANK YOU! <3
+1. After launching, extract the folder
+2. Open folder and find the "WindowsApp1" .exe file (I wasn't able to change the name of the program 
+3. Run the program
+4. Enjoy!
+
+Description:
 A small translator developed for EyeBonezD's comics and lore
 
 Illustration by EyeBonezD
